@@ -81,11 +81,12 @@ I enjoy mixing design with logic — creating smooth user experiences that look 
 
 ### 📫 Contact Me
 
+
+
 <p align="center">
   <a href="mailto:ksaravanan.sk96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="[https://www.linkedin.com/in/yourprofile](https://linkedin.com/in/sk-saravanan-kumar-793a23289">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sk-saravanan-kumar-793a23289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="[https://www.instagram.com/yourprofile](https://www.instagram.com/sovereignkraft)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/sovereignkraft" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
